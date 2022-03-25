@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    font-family: itim;
+    color:white;
+}
+.main_div
+{
+    background:lightblue;
+}
+#h2p
+{
+    background: lightskyblue;
+}
+.copy_right_footer
+{
+    color:black;
+}
+button{
+    width:150;
+}
